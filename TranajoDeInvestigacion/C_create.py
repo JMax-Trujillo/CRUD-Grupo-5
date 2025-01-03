@@ -1,3 +1,2 @@
-def saludo():
-    print('Holaaa') 
-
+def create():
+    print('Creado')
